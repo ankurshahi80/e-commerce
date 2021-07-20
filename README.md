@@ -34,8 +34,10 @@ A back end for an e-commerce site that uses Express.js API and Sequelize to inte
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
 
 ## Walkthrough
-    Part1: https://drive.google.com/file/d/1t8yc2Y5FcQkKOWBbWpayO55Dqu5yxT00/view
-    Part2: https://drive.google.com/file/d/1UX6PO3HoG5pHAwz2l_abOxjbbNbmkyU3/view
+    Part1: 
+    https://drive.google.com/file/d/1t8yc2Y5FcQkKOWBbWpayO55Dqu5yxT00/view
+    Part2: 
+    https://drive.google.com/file/d/1UX6PO3HoG5pHAwz2l_abOxjbbNbmkyU3/view
 
 ## License
 MIT
